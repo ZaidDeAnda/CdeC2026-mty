@@ -25,7 +25,7 @@ tabs[0].subheader("Python crash course part 1")
 
 tabs[0].markdown("[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZaidDeAnda/CdeC2026-mty/blob/main/notebooks/Python%20Crash%20Course.ipynb)")
 
-tabs[1].write("WIP")
+tabs[1].write("Intro to ML")
 
 tabs[1].markdown("[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZaidDeAnda/CdeC2026-mty/blob/main/notebooks/ML-Practice.ipynb)")
 
