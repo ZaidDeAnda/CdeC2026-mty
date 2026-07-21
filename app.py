@@ -27,6 +27,8 @@ tabs[0].markdown("[![Open In Colab](https://colab.research.google.com/assets/col
 
 tabs[1].write("WIP")
 
+tabs[1].markdown("[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZaidDeAnda/CdeC2026-mty/blob/main/notebooks/ML-Practice.ipynb)")
+
 tabs[2].write("WIP")
 
 tabs[3].subheader("Perceptrones and neural networks")
