@@ -25,6 +25,11 @@ tabs[0].subheader("Python crash course part 1")
 
 tabs[0].markdown("[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZaidDeAnda/CdeC2026-mty/blob/main/notebooks/Python%20Crash%20Course.ipynb)")
 
+tabs[0].subheader("Slides")
+
+tabs[0].markdown("[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://raw.githubusercontent.com/"
+"/ZaidDeAnda/CdeC2026-mty/blob/main/slides/Crash%20Course%20Python.pptx)")
+
 tabs[1].write("Intro to ML")
 
 tabs[1].markdown("[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZaidDeAnda/CdeC2026-mty/blob/main/notebooks/ML-Practice.ipynb)")
