@@ -1,0 +1,29 @@
+Let's imagine we have a model that predicts whether you are going to have a car crash today. An average person has around 3-4 vehicle accidents over their lifetime. If we say someone drives for 55 years, that is 55 * 365 = 20,075 possible driving days, and only a few of those days involve a crash. If a computer program always says "You are not going to crash today", it would be right most of the time! Is this a good model?
+
+So we need other metrics.
+
+We can start with precision. If "Tumor" is the positive class and "Normal" is the negative class, **precision** asks: out of all cases predicted as tumor, how many were actually tumor?
+
+$$
+precision = \frac{TP}{TP+FP}
+$$
+
+TP means true positive and FP means false positive.
+
+Another useful metric is recall, also called sensitivity. This is the ratio of positive instances that are correctly detected by the classifier: out of all tumors, how many did we catch?
+
+$$
+recall = \frac{TP}{TP+FN}
+$$
+
+TP means true positive and FN means false negative.
+
+We can also combine both recall and precision to make the F1 score, which is calculated by:
+
+$$
+F_1 = \frac{2}{\frac{1}{precision} + \frac{1}{recall}}
+$$
+
+Which metric we want to prioritize really depends on the case.
+
+Question for class: which error worries us more, a false positive or a false negative?
