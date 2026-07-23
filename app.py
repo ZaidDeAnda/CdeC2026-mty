@@ -43,11 +43,17 @@ tabs[1].markdown("[![Open In Colab](https://colab.research.google.com/assets/col
 
 tabs[2].header("Perceptrones")
 
-tabs[2].markdown("[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZaidDeAnda/CdeC2026-mty/blob/main/notebooks/Redes-Neuronales_1.ipynb)")
+tabs[2].markdown("[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZaidDeAnda/CdeC2026-mty/blob/main/notebooks/Redes_Neuronales_1.ipynb)")
 
-tabs[3].subheader("Perceptrones and neural networks")
+tabs[3].header("Computer vision and CNN's")
 
-tabs[3].write("WIP")
+tabs[3].subheader("Notebook")
+
+tabs[3].markdown("[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZaidDeAnda/CdeC2026-mty/blob/main/notebooks/python-computer_vision.ipynb)")
+
+tabs[3].subheader("Slides")
+
+tabs[3].markdown("[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://raw.githubusercontent.com/ZaidDeAnda/CdeC2026-mty/main/slides/Computer%20vision.pdf)")
 
 tabs[4].subheader("Convolutional neural networks")
 
