@@ -43,7 +43,7 @@ tabs[1].markdown("[![Open In Colab](https://colab.research.google.com/assets/col
 
 tabs[2].header("Perceptrones")
 
-tabs[2].markdown("[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZaidDeAnda/CdeC2026-mty/blob/main/notebooks/Redes-Neuronales_2.ipynb)")
+tabs[2].markdown("[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZaidDeAnda/CdeC2026-mty/blob/main/notebooks/Redes-Neuronales_1.ipynb)")
 
 tabs[3].subheader("Perceptrones and neural networks")
 
