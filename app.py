@@ -57,7 +57,7 @@ tabs[3].markdown("[![Google Drive](https://img.shields.io/badge/Google%20Drive-4
 
 tabs[4].subheader("Convolutional neural networks")
 
-tabs[4].write("WIP")
+tabs[4].markdown("[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZaidDeAnda/CdeC2026-mty/blob/main/notebooks/python-convolutional_neural_networks.ipynb)")
 
 tabs[5].header("Books")
 
